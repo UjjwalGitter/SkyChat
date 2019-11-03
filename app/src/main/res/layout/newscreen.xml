@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:weightSum="2"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_weight="1"
+        android:background="#3591C3"
+        android:layout_height="match_parent"/>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_weight="1"
+        android:background="#355DC3"
+        android:layout_height="match_parent"/>
+</LinearLayout>
