@@ -1,12 +1,14 @@
 # SkyChat
 SkyChat
-SkyChat is a free chating Social Media Android App.
+SkyChat is a free chating Social Media Android App. That lets you exchange texts between your friends and family members.
 
-Added Login, Sign Up, Reset Password, Search
+1. Added Login, Sign Up, Reset Password, Search
 
-Read/Unread/Online features etc to the App.
+2. Read/Unread/Online features etc to the App.
 
-Firebase is used as BackEnd which stores user's data.
+3. Backend Server: Firebase 
+
+4. Storage: Firebase Realtime Database 
 
 Tech Stack- JAVA, XML, Android Studio, Firebase
 
