@@ -10,5 +10,5 @@ Firebase is used as BackEnd which stores user's data.
 
 Tech Stack- JAVA, XML, Android Studio, Firebase
 
-<img src="https://user-images.githubusercontent.com/43453065/93029662-4c7cba00-f63a-11ea-80c2-a7385cfb3fc3.png" alt="alt text" width="1080" height="1920">
+<img src="https://user-images.githubusercontent.com/43453065/93030331-cfecda00-f63f-11ea-9a22-2c24e5679260.jpg" alt="alt text" >
 
