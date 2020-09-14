@@ -10,6 +10,8 @@ SkyChat is a free chating Social Media Android App. That lets you exchange texts
 
 4. Storage: Firebase Realtime Database 
 
+5. MVC Architecture used.
+
 Tech Stack- JAVA, XML, Android Studio, Firebase
 
 <img src="https://user-images.githubusercontent.com/43453065/93030331-cfecda00-f63f-11ea-9a22-2c24e5679260.jpg" alt="alt text" >
